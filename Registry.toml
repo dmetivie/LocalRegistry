@@ -1,0 +1,6 @@
+name = "dev_pkg"
+uuid = "6e172099-2da4-46e7-8c3f-eb5f14eb67c6"
+repo = "https://github.com/dmetivie/LocalRegistry"
+description = "Dev pkgs"
+
+[packages]
