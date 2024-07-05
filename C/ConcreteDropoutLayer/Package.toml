@@ -1,0 +1,3 @@
+name = "ConcreteDropoutLayer"
+uuid = "cefad46e-21aa-447d-abc5-91039c0799ef"
+repo = "https://github.com/dmetivie/ConcreteDropout.jl.git"
