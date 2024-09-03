@@ -8,6 +8,11 @@ LogExpFunctions = "0.3"
 LsqFit = "0.15"
 Optimization = "3"
 OptimizationMOI = ["0.1", "0.3.2-0.4"]
-PeriodicHiddenMarkovModels = "0.1"
 ShiftedArrays = "2"
 julia = "1"
+
+["1.0"]
+PeriodicHiddenMarkovModels = "0.1"
+
+["1.1-1"]
+PeriodicHiddenMarkovModels = "0.1.4-0.1"
