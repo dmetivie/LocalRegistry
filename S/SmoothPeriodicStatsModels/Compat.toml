@@ -1,4 +1,8 @@
 [1]
+Optimization = "3"
+OptimizationMOI = ["0.1", "0.3.2-0.4"]
+
+[1-2]
 ArgCheck = "2"
 Copulas = "0.1"
 Distributions = "0.25"
@@ -6,13 +10,15 @@ Ipopt = "1"
 JuMP = "1"
 LogExpFunctions = "0.3"
 LsqFit = "0.15"
-Optimization = "3"
-OptimizationMOI = ["0.1", "0.3.2-0.4"]
 ShiftedArrays = "2"
 julia = "1"
 
 ["1.0"]
 PeriodicHiddenMarkovModels = "0.1"
 
-["1.1-1"]
+["1.1-2"]
 PeriodicHiddenMarkovModels = "0.1.4-0.1"
+
+[2]
+Optimization = "3-4"
+OptimizationMOI = ["0.1", "0.3.2-0.5"]

@@ -1,4 +1,4 @@
-[1]
+[1-2]
 ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
 Copulas = "ae264745-0b69-425e-9d9d-cf662c5eec93"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
@@ -15,5 +15,5 @@ ShiftedArrays = "1277b4bf-5013-50f5-be3d-901d8477a67a"
 ["1.0"]
 HMMBase = "b2b3ca75-8444-5ffa-85e6-af70e2b64fe7"
 
-["1.2-1"]
+["1.2-2"]
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
