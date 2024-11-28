@@ -2,7 +2,7 @@
 Optimization = "3"
 OptimizationMOI = ["0.1", "0.3.2-0.4"]
 
-[1-2]
+["1 - 2"]
 ArgCheck = "2"
 Copulas = "0.1"
 Distributions = "0.25"
@@ -16,9 +16,15 @@ julia = "1"
 ["1.0"]
 PeriodicHiddenMarkovModels = "0.1"
 
-["1.1-2"]
+["1.1 - 1"]
 PeriodicHiddenMarkovModels = "0.1.4-0.1"
 
-[2]
+["2.0.0"]
 Optimization = "3-4"
 OptimizationMOI = ["0.1", "0.3.2-0.5"]
+PeriodicHiddenMarkovModels = "0.1.4-0.1"
+
+["2.0.1 - 2"]
+Optimization = "3 - 4"
+OptimizationMOI = ["0.1", "0.3.2 - 0.5"]
+PeriodicHiddenMarkovModels = "0.1.4 - 0.1"
