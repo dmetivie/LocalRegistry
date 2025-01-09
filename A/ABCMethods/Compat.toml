@@ -1,0 +1,8 @@
+[1]
+Distributions = "0.25.116 - 0.25"
+HighestDensityRegions = "0.2"
+KernelDensity = "0.6"
+LinearAlgebra = "1"
+LogExpFunctions = "0.3.29 - 0.3"
+Lux = "1"
+julia = "1"
