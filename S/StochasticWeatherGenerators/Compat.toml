@@ -12,3 +12,8 @@ SmoothPeriodicStatsModels = "1"
 
 ["1.2 - 1"]
 SmoothPeriodicStatsModels = "2"
+
+["1.2.2 - 1"]
+NonlinearSolve = "4.3.0 - 4"
+OrderedCollections = "1.8.0 - 1"
+StatsBase = "0.34.4 - 0.34"
