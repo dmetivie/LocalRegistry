@@ -1,0 +1,4 @@
+[0]
+HypertextLiteral = "0.9.5 - 0.9"
+PlutoUI = "0.7.71 - 0.7"
+julia = "1.11.0 - 1"
